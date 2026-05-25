@@ -40,4 +40,4 @@ Brazilian rural property data is fragmented across INCRA, CAR, and state registr
 
 ---
 
-*Sibling project to [urban-space](https://github.com/MaxPower90/urban-space) — same methodology, rural markets.*
+*Sibling project to [urban-space](https://github.com/Guicicca90/urban-space) — same methodology, rural markets.*
